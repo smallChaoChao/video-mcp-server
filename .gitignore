@@ -11,4 +11,4 @@ wheels/
 .idea
 .pypirc
 resource/
-
+.DS_Store
