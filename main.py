@@ -7,7 +7,7 @@ from fastmcp import FastMCP
 # Create a server instance
 video_mcp = FastMCP(name="video-mcp-server")
 
-
+# todo: 将返回值修改为失败原因
 @video_mcp.tool(name="concat_videos")
 def concat_videos(input_path_list: list, output_path: str) -> bool:
     """
@@ -43,7 +43,7 @@ def concat_videos(input_path_list: list, output_path: str) -> bool:
         print(f"concat videos failed: {e}")
         return False
 
-
+# todo: 将返回值修改为失败原因
 @video_mcp.tool(name="rotate_video")
 def rotate_video(input_path: str, angle_degrees: int, output_path: str) -> bool:
     """
