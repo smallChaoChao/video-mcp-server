@@ -15,9 +15,9 @@
 ## ✨ **Key Features**  
 - ✅**Video Concatenation**   
   Merge multiple videos into a single file effortlessly.  
-- ⏩**Video Rotation**  
+- ✅**Video Rotation**  
   Rotate videos by any angle (90°, 180°, custom degrees).  
-- ⏩**Scaling & Resolution Adjustment**  
+- ✅**Scaling & Resolution Adjustment**  
   Resize videos to specific dimensions or scale proportionally.  
 - ⏩**Speed Control**  
   Adjust playback speed (slow motion, fast-forward).  
