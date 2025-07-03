@@ -21,7 +21,7 @@
   Resize videos to specific dimensions or scale proportionally.  
 - ⏩**Speed Control**  
   Adjust playback speed (slow motion, fast-forward).  
-- ⏩**Audio Management**  
+- ✅**Audio Management**  
   Modify volume levels or add background music (BGM).  
 - ⏩**Visual Enhancements**  
   Adjust transparency/opacity and overlay subtitles.  
